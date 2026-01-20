@@ -8,7 +8,7 @@ I attempt to connect:
 * Simulation: Monte Carlo under geometric Brownian motion
 * Numerical methods: Finite difference solver for the Black Scholes PDE
 
-The emphasis is understanding, validation, and practical modeling tradeoffs.
+The emphasis is introducing myself to certain concepts, understanding the implications of different models, and guaging certain tradeoffs.
 
 ## Data used
 We use daily close prices for a single liquid US equity, default AAPL.
